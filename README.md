@@ -47,5 +47,6 @@ The simulation evaluates system behavior under varying conditions to identify an
 - The optimal pipe length: **0.5 meters**
 - Corresponding drain time: **4 minutes and 35 seconds**
 - The system achieves a balanced trade-off between drainage speed and flow distance.
-<img width="1778" alt="Screenshot 2025-03-05 at 07 06 48" src="https://github.com/user-attachments/assets/ad45d6ae-3063-4119-b576-6c2f033c1129" />
+<img width="1780" alt="Optimal drain length MATLAB" src="https://github.com/user-attachments/assets/2c5e8332-979e-4d23-af03-1cf68c7321c6" />
+
 
